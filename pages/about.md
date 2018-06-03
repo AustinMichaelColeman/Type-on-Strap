@@ -8,7 +8,7 @@ tags: [About, Test]
 
 A purely entertaining and informative version of a blog would allow people to be entertained while also learning without going through a literary institution.
 
-Words provide part of the solution, but the main benefits are lost if people fall asleep while reading.
+Words provide part of the solution, but the main benefits are lost if people fall asleep while reading. So pictures with captions are added to prevent double-sleeping.
 
 Proof of blog shares knowledge by putting ideas into an ongoing chain of word-based proof of blog, forming a record that can be shared to increase your knowledge and feed your curiosity.
 
