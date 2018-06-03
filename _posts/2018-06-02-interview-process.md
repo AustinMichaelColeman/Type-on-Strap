@@ -5,7 +5,7 @@ tags: [Technical, Interviews, Hard]
 excerpt_separator: <!--more-->
 ---
 
-Do the interviewers realize search engines exist? You want to ace that technical interview. After spending hours studying, you wonder why the interview process is the way it is. Why is it so hard? Writing code on a whiteboard does not make any sense. That is why we have computers, right? Why do you need to write answers on a whiteboard when you have access to all of the world's information in your pocket? Why are technical interviews designed this way?
+You want to ace that technical interview, but you feel like technical interviewers do not realize search engines exist. After spending hours studying, you wonder why the interview process is the way it is. Why is it so hard? Writing code on a whiteboard does not make any sense. That is why we have computers, right? Why do you need to write answers on a whiteboard when you have access to all of the world's information in your pocket? Why are technical interviews designed this way?
 <!--more-->
 
 You go through your first technical interview and you are frustrated. It is unfair. It does not accurately test who you are. You could have easily searched for the answers to the questions they asked if they had only let you have access to your computer. You would be an awesome employee; the interview just was not fair. You are the best candidate out there, how could they have not seen that? While that might be true, most company technical interviews are not about finding the best candidates. The process is mainly designed to weed out the worst candidates. False negatives do happen, and since you are a good candidate, you can always apply again and get accepted next time. Do not give up.
