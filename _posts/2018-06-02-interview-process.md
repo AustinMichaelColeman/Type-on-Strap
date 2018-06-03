@@ -39,6 +39,9 @@ You walk into the interview and you see a few interviewers and a whiteboard in f
 
 Your whiteboard does not have a compiler, but maybe that can be your next startup idea. If you needed to know how to reverse a linked list, you could search for it easily and find the answer online. You perform worse in the interview than you actually would on the job. The company could miss out on your great abilities if they would only give you a chance, right? So why is it done this way?
 
+![Two fine candidates]({{ site.baseurl }}/assets/img/pexels/good-bad.jpg)
+<p align="center"><i>Which one would you hire?</i></p>
+
 ### Turning Away Good Candidates Is Better Than Hiring Bad Candidates
 
 The company expects good candidates like you to be turned away sometimes if it means nine other candidates also fail. Better to turn away most candidates than hire a bad candidate. The company will miss out on how much opportunity you will bring, but it would suffer even more if they loosened their interview process. A bad hire is more detrimental to the company than the opportunity cost of missing a good hire. Since you are a really good candidate, you will surely pass the interview next time you try. You will show them next time how well you can solve their problems, maybe after studying a little more just in case.
@@ -74,9 +77,12 @@ So why did they not give you a computer and test you in your normal work environ
 
 You may have a completely different experience with technical interviews depending on where you interview. Each company has its own set of values. One may value technical experience the most, while another may put more weight on culture fit. It also depends on the size and age of the company. A young company may need to go through a few bad hires before it learns to tighten up its hiring process. If you show an attitude that you can learn anything, maybe that is all some companies need to hear. It depends on the goals and aspirations of the company. The typical interview process does not test everything. It is possible you ace the interview but maybe you do not know how to focus at work. Or maybe you have a poor work ethic. It is hard to test for things like this until you are really on the job. That is why some companies may hire you for a shorter term to see how you work out. But that is okay, you will make a good first impression!
 
+![Interview]({{ site.baseurl }}/assets/img/pexels/interview.jpg)
+<p align="center"><i>I can feel them judging me</i></p>
+
 ### Not perfect
 
-Technical interviews are not perfect at judging candidates. Most companies use them to weed out bad hires, evena the expense of missing out on your great talents. With so many variables, it is hard to create a consistent interview. Minor changes in the interviewer's mood could skew the results of an interview heavily.  A bad hire can wreck a company, so it is better to have more false negatives than false positives. Do not worry if you fail an interview at a company. It is designed for you to fail. Study harder and try again next time. Remember that failure is an important step on the road to learning anything. Like the Japanese proverb goes, fall down seven times, get up eight times. Good luck with your next interview!
+Technical interviews are not perfect at judging candidates. Most companies use them to weed out bad hires, even at the expense of missing out on your great talents. With so many variables, it is hard to create a consistent interview. Minor changes in the interviewer's mood could skew the results of an interview heavily.  A bad hire can wreck a company, so it is better to have more false negatives than false positives. Do not worry if you fail an interview at a company. It is designed for you to fail. Study harder and try again next time. Remember that failure is an important step on the road to learning anything. Like the Japanese proverb goes, fall down seven times, get up eight times. Good luck with your next interview!
 
 ![Handshake]({{ site.baseurl }}/assets/img/pexels/handshake.jpg)
 <p align="center"><i>You're hired!</i></p>
