@@ -9,7 +9,7 @@ description: "An ongoing chain of word-based proof of blog." # used by search en
 theme_settings:
   # Meta
   title: Proof of Blog # blog's title
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/icon.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
