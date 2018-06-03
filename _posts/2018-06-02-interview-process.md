@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Are Technical Interviews So Hard?
-tags: [Technical, Interviews, Difficult]
+tags: [Technical, Interviews, Hard]
 excerpt_separator: <!--more-->
 ---
 
