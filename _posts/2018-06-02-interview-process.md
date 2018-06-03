@@ -47,7 +47,7 @@ Your fantastic abilities will be tested against others that have taken the same 
 ![Data structure]({{ site.baseurl }}/assets/img/pexels/data-structure.jpg)
 <p align="center"><i>It is not about testing what you know, but testing what you know you don't know. You know?</i></p>
 
-Data structures and algorithms
+### Data structures and algorithms
 
 You definitely earned that computer science degree and did not spend most of your time playing video games and doing homework at the last minute. Still, you might need to refresh your memory on data structures and algorithms before going for a technical interview. You and the interviewer both know that you could easily find information on the internet for any topic you do not know about. The interviewers are testing what you know you do not know. There are whole classes of problems that sound impossible at first but become trivial when you know certain data structures exist. It is actually difficult to come up with a technical problem that does not involve a basic data structure or algorithm. Still, why do they not test you in your natural environment with a laptop and plenty of snacks? Why must technical interviews involve a whiteboard and no computers?
 
