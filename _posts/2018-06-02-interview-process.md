@@ -21,7 +21,7 @@ You go through your first technical interview and you are frustrated. It is unfa
 
 ### What is a technical interview?
 
-Since you are the perfect candidate, you know what a technical interview tests:
+The interview will show you are the best person for the job by testing your skills in five areas:
 
 * Analytical skills - your impressive ability to see problems from different points of view and solve complex problems
 * Culture and personality - whether your amazing personality is a good fit into the company's beliefs, values, and needs
