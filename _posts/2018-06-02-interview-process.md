@@ -24,7 +24,7 @@ Since you are the perfect candidate, you know what a technical interview tests:
 * Technical knowledge - your expansive knowledge of computer science and technical tools
 	
 ![Worst case runtime for finding an element in a binary search tree? I use that all the time! Here you go...]({{ site.baseurl }}/assets/img/pexels/whiteboard.jpg)
-<p align="center"><i>Worst case runtime for finding an element in a binary search tree? I use that all the time! Here you go...</i></p>
+<p align="center"><i>Implement the find function for a binary search tree? I do that all the time! Here you go...</i></p>
 
 You walk into the interview and you see a few interviewers and a whiteboard in front of you. You are nervous. The interviewers are judging you. But do not worry, you are a good candidate. You wonder why technical interviews are done this way at all. It does not represent how you will actually do the job, right?
 
