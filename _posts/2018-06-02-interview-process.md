@@ -8,10 +8,16 @@ excerpt_separator: <!--more-->
 You want to ace that technical interview, but you feel like technical interviewers do not realize search engines exist. After spending hours studying, you wonder why the interview process is the way it is. Why is it so difficult? Writing code on a whiteboard does not make any sense. That is why we have computers, right? Why do you need to write answers on a whiteboard when you have access to all of the world's information in your pocket? Why are technical interviews designed this way?
 <!--more-->
 
-You go through your first technical interview and you are frustrated. It is unfair. It does not accurately test who you are. You could have easily searched for the answers to the questions they asked if they had only let you have access to your computer. You would be an awesome employee; the interview just was not fair. You are the best candidate out there, how could they have not seen that? While that might be true, most company technical interviews are not about finding the best candidates. The process is mainly designed to weed out the worst candidates. False negatives do happen, and since you are a good candidate, you can always apply again and get accepted next time. Do not give up.
-
 ![Never stop dreaming]({{ site.baseurl }}/assets/img/pexels/never-stop-dreaming.jpg)
 <p align="center"><i>Never stop dreaming!</i></p>
+
+### Why Technical Interviews Are Hard
+
+You go through your first technical interview and you are frustrated. It is unfair. It does not accurately test who you are. You could have easily searched for the answers to the questions they asked if they had only let you have access to your computer. You would be an awesome employee; the interview just was not fair. You are the best candidate out there, how could they have not seen that? While that might be true, most company technical interviews are not about finding the best candidates. The process is mainly designed to weed out the worst candidates. False negatives do happen, and since you are a good candidate, you can always apply again and get accepted next time. Do not give up.
+
+
+![Whiteboard]({{ site.baseurl }}/assets/img/pexels/whiteboard.jpg)
+<p align="center"><i>Implement the find function for a binary search tree? I do that all the time! Here you go...</i></p>
 
 ### What is a technical interview?
 
@@ -23,10 +29,11 @@ Since you are the perfect candidate, you know what a technical interview tests:
 * Programming - your eloquent ability to turn your imagination into reality
 * Technical knowledge - your expansive knowledge of computer science and technical tools
 	
-![Worst case runtime for finding an element in a binary search tree? I use that all the time! Here you go...]({{ site.baseurl }}/assets/img/pexels/whiteboard.jpg)
-<p align="center"><i>Implement the find function for a binary search tree? I do that all the time! Here you go...</i></p>
 
 You walk into the interview and you see a few interviewers and a whiteboard in front of you. You are nervous. The interviewers are judging you. But do not worry, you are a good candidate. You wonder why technical interviews are done this way at all. It does not represent how you will actually do the job, right?
+
+![Person wondering]({{ site.baseurl }}/assets/img/pexels/wondering.jpg)
+<p align="center"><i>Hmm... Someone should make a white board that compiles code...</i></p>
 
 ### Why is it done this way?
 
@@ -36,13 +43,13 @@ Your whiteboard does not have a compiler, but maybe that can be your next startu
 
 The company expects good candidates like you to be turned away sometimes if it means nine other candidates also fail. Better to turn away most candidates than hire a bad candidate. The company will miss out on how much opportunity you will bring, but it would suffer even more if they loosened their interview process. A bad hire is more detrimental to the company than the opportunity cost of missing a good hire. Since you are a really good candidate, you will surely pass the interview next time you try. You will show them next time how well you can solve their problems, maybe after studying a little more just in case.
 
-
-### Problem solving skills
-
 ![Wrench]({{ site.baseurl }}/assets/img/pexels/wrench.jpg)
 <p align="center"><i>If you can dodge a wrench, you can dodge a ball!</i></p>
 
+### Problem solving skills
+
 Your fantastic abilities will be tested against others that have taken the same interview. You might be tested on obscure data structures you will never use, but that does not matter. Your interviewers are seeing how you think about problems compared to others. Since you are a smart person, you will surely do well on a technical interview. And smart people can be good employees. It is not everything, but it is a good indicator.  So it can show you are smart, but why test data structure knowledge you can just find online?
+
 
 ![Data structure]({{ site.baseurl }}/assets/img/pexels/data-structure.jpg)
 <p align="center"><i>It is not about testing what you know, but testing what you know you don't know. You know?</i></p>
