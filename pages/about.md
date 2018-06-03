@@ -6,9 +6,14 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Test]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+A purely entertaining and informative version of a blog would allow people to be entertained while also learning without going through a literary institution.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Pictures provide part of the solution, but the main benefits are lost if people fall asleep while reading.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+Proof of blog shares knowledge by putting ideas into an ongoing chain of word-based proof of blog, forming a record that can be shared to increase your knowledge and feed your curiosity.
+
+The blog not only serves to increase your knowledge, but proof that it came from a pool of ideas. As long as the majority of posts are not coordinating to attack itself, the blog will continue forming a record to provide knowledge for all.
+
+The blog itself requires minimal maintenence. Blogs are broadcast on a best effort basis, and readers can leave and rejoin the site at will, accepting new blogs as proof of what happened while they were gone.
+
+Thanks for reading!
