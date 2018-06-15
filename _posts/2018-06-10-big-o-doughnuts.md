@@ -2,6 +2,7 @@
 layout: post
 title: Big O Explained With Doughnuts
 tags: [Big O, Doughnuts]
+image: /assets/img/pexels/doughnut-sprinkle.jpg
 excerpt_separator: <!--more-->
 ---
 

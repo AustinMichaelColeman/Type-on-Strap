@@ -2,6 +2,7 @@
 layout: post
 title: Imagine Yourself as Lovable as Your Dog
 tags: [Imagination, Self, Lovable, Dogs]
+image: /assets/img/pexels/dog-smile.jpg
 excerpt_separator: <!--more-->
 ---
 
