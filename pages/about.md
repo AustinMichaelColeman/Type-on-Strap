@@ -19,4 +19,4 @@ The blog itself requires minimal maintenence. Blogs are broadcast on a best effo
 Thanks for reading!
 
 ### Related blogs
-* [Max Laumeister Blog](https://www.maxlaumeister.com/blog/) - My friend Max Laumeister is a big inspiration to me. He was the one who introduced me to bitcoin and began my obsession with the rest of the blockchain ecosystem.
+* [Max Laumeister Blog](https://www.maxlaumeister.com/blog/) - My friend Max Laumeister is a big inspiration to me. He was the one who introduced me to Bitcoin and began my obsession with the rest of the blockchain ecosystem.
