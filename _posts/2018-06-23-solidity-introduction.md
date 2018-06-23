@@ -2,7 +2,7 @@
 layout: post
 title: Build an Unstoppable Counter With Solidity
 tags: [Getting, Started, Solidity, Ethereum, Introduction]
-image: /assets/img/pexels/dog-smile.jpg
+image: /assets/img/pexels/journey.jpg
 excerpt_separator: <!--more-->
 ---
 
