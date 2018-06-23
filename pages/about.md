@@ -17,3 +17,6 @@ The blog not only serves to increase your knowledge, but proof that it came from
 The blog itself requires minimal maintenence. Blogs are broadcast on a best effort basis, and readers can leave and rejoin the site at will, accepting new blogs as proof of what happened while they were gone.
 
 Thanks for reading!
+
+### Related blogs
+* [Max Laumeister Blog](https://www.maxlaumeister.com/blog/) - My friend Max Laumeister is a big inspiration to me. He was the one who introduced me to bitcoin and began my obsession with the rest of the blockchain ecosystem.
