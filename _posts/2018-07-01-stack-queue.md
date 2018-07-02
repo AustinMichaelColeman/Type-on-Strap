@@ -19,7 +19,7 @@ Rock balancing is the art of stacking stones on top of each other without them f
 ![Queue]({{ site.baseurl }}/assets/img/pexels/queue.jpg)
 <p align="center"><i>A queue for some good German food</i></p>
 
-## Queue
+## Restaurant Line
 
 The queue data structure stores data in a FIFO order, or first-in-first-out order. One example of this is a line for your favorite restaurant. The first person to stand in line is the first one to get served. Everyone else queues up behind them. A computer scientist would say they enqueue themselves onto the line. And when they got their food, they would say they have been dequeued from the line. The first element enqueued onto a queue is the first element to be removed when dequeued.
 
