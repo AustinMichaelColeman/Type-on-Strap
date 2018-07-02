@@ -14,7 +14,7 @@ Today you will learn the basics of what a stack and a queue are. Stacks and queu
 
 ## Rock Balancing
 
-Rock balancing is the art of stacking stones on top of each other without them falling. It is common to see these stacks of rocks at the beach. Rock balancers push stones to the top of the stone stack. If they wanted to remove a stone, they would pop the stone off of the top. The stones are added one on top of the other. This is exactly how stacks work as well. You use a stack when you want to store and access data in a LIFO order, or last-in-first-out order. The first stone you add is also the first stone you have access to if you want to remove one.
+Rock balancing is the art of stacking stones on top of each other without them falling. It is common to see these stacks of rocks at the beach. Rock balancers push stones to the top of the stone stack. If they wanted to remove a stone, they would pop the stone off of the top. The stones are added one on top of the other. This is exactly how stacks work as well. You use a stack when you want to store and access data in a LIFO order, or last-in-first-out order. The last stone you add is the first stone you have access to if you want to remove one.
 
 ![Queue]({{ site.baseurl }}/assets/img/pexels/queue.jpg)
 <p align="center"><i>A queue for some good German food</i></p>
