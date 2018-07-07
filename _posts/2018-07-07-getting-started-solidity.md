@@ -2,7 +2,7 @@
 layout: post
 title: Getting Started with Solidity
 tags: [Solidity, Introduction, Getting, Started]
-image: /assets/img/pexels/world.jpg
+image: /assets/img/pexels/worldPreview.jpg
 excerpt_separator: <!--more-->
 ---
 
