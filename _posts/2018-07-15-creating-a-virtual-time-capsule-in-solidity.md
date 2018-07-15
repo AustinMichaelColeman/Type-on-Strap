@@ -6,7 +6,7 @@ image: /assets/img/pexels/payable.jpg
 excerpt_separator: <!--more-->
 ---
 
-One of the coolest parts of Solidity is you can create functions that control and manipulate the ether cryptocurrency. When you mark a function as `payable`, it means the function can receive the ether cryptocurrency. Code itself can control value, with any `owner` that we want to specify with our imagination. Additionally, certain aspects of time can be relied upon without having to trust any single entity, only the network itself. In this example, we will manually a contract that locks the ether given to it for a certain amount of time. Once the time has elapsed, the `owner` can get the ether back out. This is just a start to get you familiar with the syntax, but with your creativity and imagination you could make something much cooler.
+One of the coolest parts of Solidity is you can create functions that control and manipulate the ether cryptocurrency. When you mark a function as `payable`, it means the function can receive the ether cryptocurrency. Code itself can control value, with any `owner` that we want to specify with our imagination. Additionally, certain aspects of time can be relied upon without having to trust any single entity, only the network itself. In this example, we will create a contract that locks the ether given to it for a certain amount of time. Once the time has elapsed, the `owner` can get the ether back out. This is just a start to get you familiar with the syntax, but with your creativity and imagination you could make something much cooler.
 
 <!--more-->
 
