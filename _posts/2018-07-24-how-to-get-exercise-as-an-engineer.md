@@ -28,6 +28,6 @@ You could trot like a horse and bang two coconuts together while reading the [py
 
 ## Conclusion
 
-It's important for you to get exercise, whether you are an engineer or not. Imagine you can and believe in yourself. Get out the door and get addicted to exercise. You will think clearer, feel less anxiety, and it can all start now. Go for a walk and get some air. Share what happened on your walk below! Thanks for reading, hope you have a good walk.
+It is important for you to get exercise, whether you are an engineer or not. Imagine you can and believe in yourself. Get out the door and get addicted to exercise. You will think clearer, feel less anxiety, and it can all start now. Go for a walk and get some air. Share what happened on your walk below! Thanks for reading, hope you have a good walk.
 
 
