@@ -14,7 +14,7 @@ You can improve your mood, your sleep, and reduce your stress and anxiety by thi
 
 ## Why you should exercise
 
-Exercise improves your mood by helping you feel more energetic. Getting your heartrate up will also help you sleep later that day. Take your frustrations, stress, and anxiety out with a quick run. Stress and anxiety affects a lot of people today. If you get some exercise, you will reduce the world's suffering just a bit because you'll be happier. Then maybe you would encourage another person to exercise and they will be happier too. Soon much of the world is happier, all because you decided to start exercising. The world needs you to exercise.
+Exercise improves your mood by helping you feel more energetic. Getting your heartrate up will also help you sleep later that day. Take your frustrations, stress, and anxiety out with a quick run. Stress and anxiety affects a lot of people today. If you get some exercise, you will reduce the world's suffering just a bit because you will be happier. Then maybe you would encourage another person to exercise and they will be happier too. Soon much of the world is happier, all because you decided to start exercising. The world needs you to exercise.
 
 ![Engineer thinking about world]({{ site.baseurl }}/assets/img/pexels/thinking-about-world.jpg)
 <p align="center"><i>An engineer thinking about how their exercise will impact the world</i></p>
