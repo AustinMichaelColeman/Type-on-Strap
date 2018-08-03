@@ -118,6 +118,7 @@ You now have the basic information you need to get started with Solidity. There 
 
 ## See more
 * [Build an Unstoppable Counter with Solidity]({{ site.baseurl }}/2018/06/23/solidity.html) - Build an unstoppable counter! You can keep counting and counting. What will you do with this power?
+* [Creating a Virtual Time Capsule in Solidity]({{site.baseurl}}/2018/07/15/creating-a-virtual-time-capsule-in-solidity.html), shows you how the payable modifier works in Solidity, the Ethereum smart contract programming language.
 	
 ## Other resources
 * [Truffle Framework](https://truffleframework.com/) - A development framework for Ethereum 

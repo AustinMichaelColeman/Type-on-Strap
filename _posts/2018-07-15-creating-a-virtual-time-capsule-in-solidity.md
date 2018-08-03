@@ -74,4 +74,11 @@ As you can tell, we got an error because one year has not elapsed yet. It's not 
 ## Wrapping Up
 This was just a start to get familiar with some of the different keywords and built in functions to Solidity. What would you change to make this contract more useful? Looking forward to reading your comments. Thanks for reading and have a wonderful day.
 
+## See also
+* [Build an Unstoppable Counter with Solidity]({{ site.baseurl }}/2018/06/23/solidity.html) - Build an unstoppable counter! You can keep counting and counting. What will you do with this power?
+* [Getting Started with Solidity]({{site.baseurl}}/2018/07/07/getting-started-solidity.html) - If you would like to learn how to get started with Solidity
 
+## Other resources
+* [Truffle](https://truffleframework.com/), which has a good selection of [tutorials](https://truffleframework.com/tutorials).
+* [Ganache](https://truffleframework.com/ganache), often paired with Truffle. It's a fast Ethereum RPC client for testing and development of smart contracts.
+* [Superblocks Studio](https://studio.superblocks.com/), a web IDE similar to Remix but also adds an easy way to create a website that interacts with your smart contract.
