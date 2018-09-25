@@ -18,7 +18,7 @@ A rendering engine draws images of the application to the screen by using vertex
 ![Runner]({{ site.baseurl }}/assets/img/pexels/square.jpg)
 <p align="center"><i>Vertices of two triangles</i></p>
 
-To understand how 3d models are drawn, it helps to start with something easier than a 3D model: a square. The vertex buffer contains a list of vertices used to draw triangles to the screen. For example, for drawing a square in 2D it could list every vertex of the two triangles:
+To understand how 3D models are drawn, it helps to start with something easier than a 3D model: a square. The vertex buffer contains a list of vertices used to draw triangles to the screen. For example, for drawing a square in 2D it could list every vertex of the two triangles:
 
 	float vertexBuffer[] = {
 		-1,  1 // Bottom left triangle
