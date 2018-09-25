@@ -24,12 +24,12 @@ To understand how 3D models are drawn, it helps to start with something easier t
 		-1,  1 // Bottom left triangle
 		-1, -1,
 		 1, -1, 
-		-1, -1, // Top right triangle
+		-1,  1, // Top right triangle
 		 1, -1,
 		 1,  1
 	}
 
-The coordinates (-1, 1), (-1, -1), and (1, -1) form the bottom left corner of the square. The coordinates (-1, -1), (1, -1), and (1, 1) form the top right corner of the square. Together this could be used to tell the graphics card to render two triangles to the screen. Can you think of a more efficient way to tell the graphics card what triangles to render?
+The coordinates (-1, 1), (-1, -1), and (1, -1) form the bottom left corner of the square. The coordinates (-1, 1), (1, -1), and (1, 1) form the top right corner of the square. Together this could be used to tell the graphics card to render two triangles to the screen. Can you think of a more efficient way to tell the graphics card what triangles to render?
 
 Notice how there are duplicate vertices. Both (-1, 1) and (1, -1) are used twice. That is wasted memory. In big detailed 3D models that can add up to a lot of waste. Index buffers are used to save memory by listing indices into the vertex buffer, rather than giving an explicit vertex buffer to the renderer. If we were to use a vertex buffer and index buffer, it would look like so:
 
