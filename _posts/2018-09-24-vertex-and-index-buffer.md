@@ -45,7 +45,7 @@ Notice how there are duplicate vertices. Both (-1, 1) and (1, -1) are used twice
 		0, 2, 3 // Top right triangle
 	}
 
-Instead of 12 floats (48 bytes) to draw two triangles, we used 8 floats and 6 unsigned shorts (38 bytes) to draw the same thing. With large complicated models that adds up to a lot of saved memory.
+Instead of 12 floats (48 bytes) to draw two triangles, we used 8 floats and 6 unsigned shorts (44 bytes) for a total of 4 bytes saved to draw the same thing. Although this simple example is only 4 bytes of savings, real 3D models contain much more information and the memory savings can be a lot better. With large complicated models that adds up to a lot of saved memory.
 
 ## Conclusion
 
