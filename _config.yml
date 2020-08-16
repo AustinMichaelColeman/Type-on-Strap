@@ -12,21 +12,20 @@ favicon: assets/favicon.ico
 header_text: > #two or three lines to describe your site
      <p>An ongoing chain of word-based proof of blog</p>
 header_text_feature_image: assets/img/pexels/triangular.jpeg
-  footer_text: >
-    Thank you for your time.
+footer_text: Thank you for your time.
 
-  # Scripts / Features 
-  google_analytics: UA-120210782-1 # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname: proofofblog
-  katex: true # Enable if using math markup
-  
-  special_page:
-    search: 
-      icon: "search" # Assuming page link and icon are the same
-      enabled: true
-    tags:
-      icon: "tags"
-      enabled: true
+# Scripts / Features 
+google_analytics: UA-120210782-1 # Tracking ID, e.g. "UA-000000-01"
+disqus_shortname: proofofblog
+katex: true # Enable if using math markup
+
+special_page:
+  search: 
+    icon: "search" # Assuming page link and icon are the same
+    enabled: true
+  tags:
+    icon: "tags"
+    enabled: true
 
 
 # Blog
