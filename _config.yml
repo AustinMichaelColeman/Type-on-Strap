@@ -5,58 +5,15 @@ title: Proof of Blog
 description: "An ongoing chain of word-based proof of blog." # used by search engines
 
 
-# THEME-SPECIFIC CONFIGURATION
-theme_settings:
-  # Meta
-  title: Proof of Blog # blog's title
-  avatar: assets/img/icon.png
-  favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
+avatar: assets/img/icon.png
+favicon: assets/favicon.ico
 
-  # Header and footer text
-  header_text: > #two or three lines to describe your site
+# Header and footer text
+header_text: > #two or three lines to describe your site
      <p>An ongoing chain of word-based proof of blog</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     Thank you for your time.
-
-  # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
-  behance:
-  bitbucket:
-  dribbble:
-  facebook:
-  flickr:
-  gitlab:
-  github: "austinmichaelcoleman"
-  google_plus:
-  instagram:
-  keybase:
-  linkedin:  https://www.linkedin.com/in/austincoleman/
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter: austindogeman # "twitter username"
-  vimeo:
-  wordpress:
-  youtube:
-  
-  # Sharing options
-  share_buttons:
-    facebook: true
-    twitter: true
-    google_plus: true
-    tumblr:
-    pinterest:
-    pocket:
-    reddit: true
-    linkedin:
-    wordpress:
-    email: true
 
   # Scripts / Features 
   google_analytics: UA-120210782-1 # Tracking ID, e.g. "UA-000000-01"
@@ -70,34 +27,24 @@ theme_settings:
     tags:
       icon: "tags"
       enabled: true
-  
-  # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_share_on: "Share on"
-  str_add_to: "Add to"
-  str_email: "Email"
-  str_tweet: "Tweet"
-  str_pin_it: "Pin it"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
-  str_javascript_required_disqus: "Please enable JavaScript to view comments."
 
-  # Colours, typography and padding
-  # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
 
-  # Post navigation
-  post_navigation: true
-  
-  
+# Blog
+excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+post_navigation: true
+color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
+
+# Features
+cookie_consent: false                                   # To respect the usage of cookies
+layout_variables:                                       # Open the "_sass > base" folder, and open "_variables.scss"
+footer_icons:                                           # In _data/social.yml
+share_buttons:                                          # In _data/social.yml
+authors:                                                # In _data/authors.yml
+language:                                               # In _data/language.yml
+
 # PAGINATION
 paginate: 5
-paginate_path: "blog/page:num"
-
+paginate_path: "/blog/page:num"
 
 # PORTFOLIO
 collections:
@@ -105,13 +52,9 @@ collections:
     output: true
     permalink: /:collection/:name
 
-
 # BUILD SETTINGS
-markdown: kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: :compressed
-plugins: [jekyll-paginate, jekyll-seo-tag]
-#theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
-exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png", "package.json", "node_modules", "gulpfile.js", ".idea/*"]
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+exclude: [".jekyll-cache", ".idea", "vendor/*", "assets/node_modules"]
+
+# theme: type-on-strap                                  # if using the theme as a jekyll theme gem
+remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github

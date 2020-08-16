@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Test]
+tags: [About, Archive]
 ---
 
 A purely entertaining and informative version of a blog would allow people to be entertained while also learning without going through a literary institution.
